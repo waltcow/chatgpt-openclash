@@ -9,3 +9,7 @@ DOMAIN-SUFFIX,ai.com
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
+
+# Add Bing and Bard
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,bing.com
