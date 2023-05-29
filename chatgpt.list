@@ -13,3 +13,10 @@ DOMAIN-SUFFIX,stripe.com
 # Add Bing and Bard
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,bing.com
+
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,identrust.com
+DOMAIN,openaiapi-site.azureedge.net
+
+#add poe.com
+DOMAIN-SUFFIX,poe.com
