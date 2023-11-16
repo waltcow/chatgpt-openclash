@@ -9,6 +9,10 @@ DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,recaptcha.net
 
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,oaistatic.com
+
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
