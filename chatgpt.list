@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
