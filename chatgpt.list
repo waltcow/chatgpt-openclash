@@ -28,5 +28,10 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,identrust.com
 DOMAIN,openaiapi-site.azureedge.net
 
-#add poe.com
+# Add poe.com
 DOMAIN-SUFFIX,poe.com
+
+# Add Anthropic
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
