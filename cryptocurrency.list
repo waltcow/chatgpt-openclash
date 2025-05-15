@@ -297,6 +297,8 @@ DOMAIN-SUFFIX,mdex.one
 DOMAIN-SUFFIX,mdex.com
 DOMAIN-SUFFIX,mdex.me
 DOMAIN-SUFFIX,1inch.io
+DOMAIN-KEYWORD,finance
+DOMAIN-KEYWORD,fi
 
 # > Chippay
 DOMAIN-SUFFIX,chippay.com
